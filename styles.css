@@ -15,23 +15,33 @@ body {
     border-radius: 40px;
 }
 
-.ovo_pai{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-}
 
-.ovo img{
+
+.Egg img{
     display: block;
     margin: auto;
     max-width: 100%;
-    width: 150px;
-    height: 150px;
+    width: 625px;
+    height: 250px;
+    margin-top: 25px;
+    border-radius: 25px;
 }
 
-h1 {
-    font-family: 'Outfit-VariableFont_wght.ttf', sans-serif;  
+.Título h1{
+    margin-left: 35px;
+    font-family: 'Outfit-VariableFont_wght.ttf', sans;  
+    font-size: 2.5rem;
+    margin-bottom: 0.2em;
+}
+
+.Título h4{
+    font-size: 0.9rem;
+    margin-top: 0px;
+    font-weight: normal;
+    color: grey;
+    margin-left: 35px;
+    font-family: 'YoungSerif-Regular.ttf', sans-serif;  
+   
 }
 
 
